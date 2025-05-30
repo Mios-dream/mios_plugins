@@ -1,0 +1,14 @@
+{
+  "name": "和澪闲聊",
+  "display_name": "和澪闲聊",
+  "version": "1.0.0",
+  "description": "和澪闲聊",
+  "author": "sansan",
+  "setting": {
+    "enable": true,
+    "priority": 0,
+    "event": ["GroupMessage"],
+    "hide": true
+  },
+  "developer_setting": {}
+}
